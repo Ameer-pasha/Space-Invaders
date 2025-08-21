@@ -1,0 +1,6 @@
+# Space Invaders Game Requirements
+# No external dependencies required - uses built-in Python turtle module
+# Python 3.6+ recommended
+
+# Note: This game uses only Python's built-in turtle graphics library
+# No additional packages need to be installed
